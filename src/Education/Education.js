@@ -37,7 +37,7 @@ function Education(props) {
       <Card className={classes.card}>
         <CardMedia
           className={classes.cover}
-          image="./Images/NKU_STACKED.png"
+          image="./Images/Education/NKU.png"
           title="Northen Kentucky University"
         />
         <div className={classes.details}>
