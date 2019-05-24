@@ -1,8 +1,8 @@
 {
-  "name": "react-material-resume",
+  "name": "Collin-Johnson-React-Resume",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://collin-r-johnson.github.io/Collin-Johnson-React-Resume",
+  "homepage": "https://collin-r-johnson.github.io/Collin-Johnson-React-Resume/",
   "dependencies": {
     "@material-ui/core": "^1.2.1",
     "@material-ui/icons": "^1.1.0",
